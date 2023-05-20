@@ -10,12 +10,20 @@ const works = [
       
    },
    {
-      title: "Safe Stray Life",
+      title: "Animal Lives",
       description: "A web based platfrom build using MERN stack to help stray animals.",
       codeLink: "https://github.com/satishSingh0710/animal-lives",
       projectLink:
          "https://safe-stray-life.netlify.app/",
       imageUrl: images.safeStrayLife, 
+   },
+   {
+      title: "To-do list application",
+      description: "A MERN to-do list application, with user authentication",
+      codeLink: "https://github.com/satishSingh0710/todo_app",
+      projectLink:
+         "https://todo-app-b96a5.web.app/login",
+      imageUrl: images.todo, 
    },
  
 ];

@@ -1,4 +1,5 @@
 import email from "../assets/email.png";
+import todo from "../assets/todo.png";
 import mobile from "../assets/mobile.png";
 import api from "../assets/api.png";
 import cpp from "../assets/cpp.png";
@@ -58,6 +59,7 @@ import insta from '../assets/insta.png'
 import ediDesign from "../assets/edificedesignstudio.png";
 
 export default {
+   todo,
    social,
    safeStrayLife,
    clipboard,
