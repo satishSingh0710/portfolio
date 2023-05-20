@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5e0a5e3d.css",
-    "main.js": "/portfolio/static/js/main.299187e8.js",
+    "main.js": "/portfolio/static/js/main.e5797562.js",
     "static/media/Bracket.gif": "/portfolio/static/media/Bracket.13993aa81a1e2bcfa37b.gif",
     "static/media/edificedesignstudio.png": "/portfolio/static/media/edificedesignstudio.9efba06fdd2f66cef043.png",
     "static/media/clipboard.png": "/portfolio/static/media/clipboard.9a893686cd48f862b576.png",
@@ -24,6 +24,7 @@
     "static/media/Uber.jpeg": "/portfolio/static/media/Uber.646792e1746356bf8a28.jpeg",
     "static/media/asus.png": "/portfolio/static/media/asus.514bc34955008a92e09f.png",
     "static/media/java.jpg": "/portfolio/static/media/java.26d0fe099a26a3d9f8ca.jpg",
+    "static/media/todo.png": "/portfolio/static/media/todo.8ebf7e33226b4c51757a.png",
     "static/media/adidas.png": "/portfolio/static/media/adidas.83df8153294f9137d308.png",
     "static/media/tenzies.png": "/portfolio/static/media/tenzies.68156f0d673c31cd6c6d.png",
     "static/media/linkedln.png": "/portfolio/static/media/linkedln.50f7348ea5497c02ba37.png",
@@ -46,10 +47,10 @@
     "index.html": "/portfolio/index.html",
     "static/media/circle.svg": "/portfolio/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
     "main.5e0a5e3d.css.map": "/portfolio/static/css/main.5e0a5e3d.css.map",
-    "main.299187e8.js.map": "/portfolio/static/js/main.299187e8.js.map"
+    "main.e5797562.js.map": "/portfolio/static/js/main.e5797562.js.map"
   },
   "entrypoints": [
     "static/css/main.5e0a5e3d.css",
-    "static/js/main.299187e8.js"
+    "static/js/main.e5797562.js"
   ]
 }
